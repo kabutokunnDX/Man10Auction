@@ -1,0 +1,16 @@
+name: Man10Auction
+version: '${project.version}'
+main: kbtdx.man10auction.Man10Auction
+api-version: 1.17
+description: Man10 No Auction No Plugin Dayo
+authors: [kabutokunnDX]
+commands:
+  mauction:
+
+permissions:
+  mauction.op:
+    default: op
+  mauction.open:
+    default: op
+  mauction.entry:
+    default: true
